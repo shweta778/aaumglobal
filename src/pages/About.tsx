@@ -38,21 +38,21 @@ const About = () => {
   ];
 
   const milestones = [
-    { year: "2015", event: "Company founded with a vision for global logistics excellence" },
+    { year: "2025", event: "Company founded with a vision for global logistics excellence" },
     // { year: "2013", event: "Expanded operations to cover 20+ countries worldwide" },
     // { year: "2016", event: "Launched specialized project cargo division" },
     // { year: "2019", event: "Achieved ISO 9001:2015 certification for quality management" },
-    { year: "2017", event: "Introduced AI-powered cost optimization solutions" },
-    { year: "2019", event: "Serving 50+ countries with 99.5% on-time delivery rate" },
-    { year: "2021", event: "We provide special service and rates for LCL cargo with specialzed Team." },
-    { year: "2021", event: "We are Specialized in Sea-freight" }
+    // { year: "2017", event: "Introduced AI-powered cost optimization solutions" },
+    // { year: "2019", event: "Serving 50+ countries with 99.5% on-time delivery rate" },
+    // { year: "2021", event: "We provide special service and rates for LCL cargo with specialzed Team." },
+    // { year: "2021", event: "We are Specialized in Sea-freight" }
   ];
 
   const stats = [
-    { number: "10+", label: "Years of Experience" },
-    { number: "50+", label: "Countries Served" },
-    { number: "500+", label: "Global Partners" },
-    { number: "5,000+", label: "Satisfied Clients" }
+    { number: "5+", label: "Years of Experience" },
+    { number: "10+", label: "Countries Served" },
+    { number: "100+", label: "Global Partners" },
+    { number: "5,00+", label: "Satisfied Clients" }
   ];
 
   const team = [
@@ -62,12 +62,12 @@ const About = () => {
       description: "10+ years in global logistics with expertise in strategic planning and business development."
     },
     {
-      name: "Mr. Shridhar Patil",
+      name: "Mr. Shridhar",
       position: "Chief Operations Officer",
       description: "Expert in supply chain optimization with a focus on technology-driven solutions."
     },
     {
-      name: "Mr. Ajit Chavan",
+      name: "Mr. Ajit",
       position: "Head of Customer Relations",
       description: "Dedicated to ensuring exceptional customer experience and satisfaction."
     },
@@ -89,7 +89,7 @@ const About = () => {
             </h1>
             <p className="text-xl md:text-2xl mb-8 text-primary-foreground/90">
               Your trusted partner in global logistics, delivering excellence through innovation, 
-              reliability, and customer-first approach since 2015.
+              reliability, and customer-first approach.
             </p>
           </div>
         </div>
